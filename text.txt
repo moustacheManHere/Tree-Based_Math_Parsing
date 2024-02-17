@@ -1,0 +1,11 @@
+*** Statements with value=> 571.8641627220659
+a=(3+(c*b)/d)
+
+*** Statements with value=> 225.0
+c=((20+5)*9)
+
+*** Statements with value=> 104.74930460927439
+b=(c-(2*(d**1.1)))
+
+*** Statements with value=> 41.43096908110525
+d=(40+6**0.2)
